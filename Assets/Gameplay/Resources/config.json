@@ -1,7 +1,7 @@
 {
-	"playerSpeedMultiplier": 0.7,
+	"playerSpeedMultiplier": 0.6,
 	"playerJumpMultiplier": 1.5,
-	"enemySpeedMultiplier": 0.7,
+	"enemySpeedMultiplier": 0.4,
 	"playerCanBop": true,
 	"enemiesEnabled": true,
 	"tokensEnabled": true

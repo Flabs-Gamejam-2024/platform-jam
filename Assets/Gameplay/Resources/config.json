@@ -1,5 +1,5 @@
 {
-	"playerSpeedMultiplier": 1.0,
+	"playerSpeedMultiplier": 1.5,
 	"playerJumpMultiplier": 1.0,
 	"enemySpeedMultiplier": 1.0,
 	"playerCanBop": true,

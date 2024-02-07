@@ -1,6 +1,6 @@
 {
 	"playerSpeedMultiplier": 0.75,
-	"playerJumpMultiplier": 1,
+	"playerJumpMultiplier": 1.25,
 	"enemySpeedMultiplier": 0,
 	"playerCanBop": true,
 	"enemiesEnabled": false,
